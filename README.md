@@ -40,7 +40,7 @@ Currently working at <a href="#" alt="Novetech">Novetech</a>  - Technology compa
 <p align="left">
   <a href="mailto:lmcezar@gmail.com"  alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lmcezar@gmail.com" /></a>
-  <a href="https://www.linkedin.com/in/lucascezardev" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/lucascezardeveloper" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascezardev" /></a>
   <a href="https://wa.me/5583988815684" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5583988815684"/></a>
